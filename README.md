@@ -1,2 +1,2 @@
 # ComposeCourse
-This repo is reagrding learning of Compose
+This repo is about learning of Compose.
